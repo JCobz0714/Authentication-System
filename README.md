@@ -1,4 +1,4 @@
-# Authentication system FastAPI
+# Authentication system using FastAPI
 
 This project will consist of an authentication system using JWT, FastAPI and PostgreSQL
 for saving the users.
